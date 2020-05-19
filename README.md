@@ -1,1 +1,1 @@
-# fe-begginers
+# fe-beginners
